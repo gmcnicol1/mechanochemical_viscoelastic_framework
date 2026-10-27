@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository in academic work, please cite the following paper."
+title: "A computational framework for coupled linear viscoelastic mechanochemical models in biological systems"
+
+author:
+  - family-names: "McNicol"
+    given-names: "Gordon R."
+
+version: "1.0.0"
+date-released: "2026-10-27"
+
+repository-code: "https://github.com/gmcnicol1/mechanochemical_viscoelastic_framework"
